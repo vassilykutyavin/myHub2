@@ -1,4 +1,4 @@
-track Cre+ 30 vs. Cre- 30
+track Crepos30_vs_Creneg30
 container multiWig
 shortLabel major
 longLabel major
@@ -13,18 +13,18 @@ configurable on
 autoScale on
 dragAndDrop subtracks
 
-track Cre+30
+track Crepos30
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27acCre+.bw
 shortLabel A
 longLabel A_H3K27ac_CrePos30
-parent Cre+ 30 vs. Cre- 30
+parent Crepos30_vs_Creneg30
 type bigWig
 color 60,102,90
 
-track Cre-30
+track Creneg30
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27acCre-.bw
 shortLabel B
 longLabel A_H3K27ac_Creneg30
-parent Cre+ 30 vs. Cre- 30
+parent Crepos30_vs_Creneg30
 type bigWig
 color 136,102,255
