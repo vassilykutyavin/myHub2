@@ -14,7 +14,7 @@ autoScale on
 dragAndDrop subtracks
 
 track Crepos30
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27acCre+.bw
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27ac30Cre+.bw
 shortLabel A
 longLabel A_H3K27ac_CrePos30
 parent Crepos30_vs_Creneg30
@@ -22,7 +22,7 @@ type bigWig
 color 60,102,90
 
 track Creneg30
-bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27acCre-.bw
+bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27ac30Cre-.bw
 shortLabel B
 longLabel A_H3K27ac_Creneg30
 parent Crepos30_vs_Creneg30
