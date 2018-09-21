@@ -1,5 +1,5 @@
 hub myHub
-shortLabel myH
+shortLabel myHh
 longLabel myHubs
 genomesFile genomes.txt
 email vassily.kutyavin@ucsf.edu
