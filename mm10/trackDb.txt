@@ -27,4 +27,4 @@ shortLabel B,
 longLabel A_H3K27ac_Creneg30
 parent Crepos30_vs_Creneg30
 type bigWig
-color 0,170,0
+color 0,170,100
