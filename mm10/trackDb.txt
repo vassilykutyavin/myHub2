@@ -19,7 +19,7 @@ shortLabel A
 longLabel A_H3K27ac_CrePos30
 parent Crepos30_vs_Creneg30
 type bigWig
-color 250,0,155
+color 250,40,125
 
 track Creneg30
 bigDataUrl https://de.cyverse.org/anon-files/iplant/home/vassilykutyavin/H3K27ac30Cre-.bw
@@ -27,4 +27,4 @@ shortLabel B,
 longLabel A_H3K27ac_Creneg30
 parent Crepos30_vs_Creneg30
 type bigWig
-color 0,220,100
+color 0,210,120
