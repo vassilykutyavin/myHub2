@@ -13,7 +13,7 @@ configurable on
 autoScale on
 dragAndDrop subtracks
 
-track ERRa Crepos30
+track ERRaCrepos30
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/vassilykutyavin/ERRaCre+.bw
 shortLabel A
 longLabel A_H3K27ac_CrePos30
@@ -21,7 +21,7 @@ parent Crepos30_vs_Creneg30
 type bigWig
 color 250,40,125
 
-track ERRa Creneg30
+track ERRaCreneg30
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/vassilykutyavin/ERRaCre-.bw
 shortLabel B,
 longLabel A_H3K27ac_Creneg30
